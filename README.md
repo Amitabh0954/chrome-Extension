@@ -9,10 +9,6 @@ Stay Productive is a simple yet effective Chrome extension designed to help user
 - Prevents access to already blocked sites with an option to close the tab.
 - Custom error messages for invalid URLs (e.g., Chrome internal pages).
 
-## Demo
-
-![Stay Productive Screenshot](path_to_screenshot_image)
-
 ## How It Works
 
 1. **Popup UI**: Displays the current website and provides a button to block it.
@@ -32,7 +28,7 @@ Stay Productive is a simple yet effective Chrome extension designed to help user
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/stay-productive.git
+    git clone https://github.com/Amitabh0954/chrome-Extension.git
     ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer Mode**.
